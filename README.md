@@ -32,9 +32,9 @@ Urban100 : https://www.kaggle.com/datasets/harshraone/urban100
 
 train.py option:
 
-  --train_dataset           Training dataset path
+  --train_dataset               Training dataset path
 
-  --validation_dataset      Validation dataset path
+  --validation_dataset          Validation dataset path
 
   --save_root               Model save path
 
