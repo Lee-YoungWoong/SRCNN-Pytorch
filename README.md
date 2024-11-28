@@ -12,6 +12,8 @@ Also, Provide 3 image format "RGB, YCb, Y"
 
 Calculate PSNR only Y channel
 
+Python Version == 3.8
+
 # Train (train.py)
 
 Train SRCNN
