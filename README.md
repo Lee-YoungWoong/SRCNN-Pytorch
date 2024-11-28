@@ -1,6 +1,8 @@
 # SRCNN
 Implementation of SRCNN in PyTorch.
 
+<img width="474" alt="캡처" src="https://github.com/user-attachments/assets/6b23d04a-5e80-4662-88db-7568ce65c056">
+
 Original SRCNN : No padding
 
 But add Padding Mode for same output size
